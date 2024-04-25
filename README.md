@@ -47,7 +47,9 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stats</h3>
-<p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshveer7828&layout=compact&theme=highcontrast" alt=Harshveer7828 />
-  <
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshveer7828&layout=compact&theme=highcontrast" alt=Harshveer7828 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshveer7828&show_icons=true&locale=en&theme=highcontrast" alt="Harshveer7828" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshveer7828&theme=highcontrast" alt="Harshveer7828" /></p>
