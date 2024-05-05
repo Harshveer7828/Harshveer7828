@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Veer Singh</h1>
 <h3 align="center">MERN STACK DEVELOPER</h3>
-
-- 🔭 I’m currently working on **HELIX PROJECT 1**
 - 🌱 I’m currently learning **DSA , REACT**
 - 💬 Ask me about **NODE JS, EXPRESS JS, MONGO DB, HTML, CSS, JAVASCRIPT, TAILWIND CSS, JAVA**
 - 📫 How to reach me: **harshveer7828@gmail.com**
